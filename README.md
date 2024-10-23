@@ -1,18 +1,8 @@
-# React Tutorial
+# React + Vite
 
-Learn the fundamentals of React including simple and class components, state, props, and submitting form data.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-### [View the demo](https://taniarascia.github.io/react-tutorial/) | [Read the tutorial](https://www.taniarascia.com/getting-started-with-react/)
+Currently, two official plugins are available:
 
-## Purpose
-
-- Learn about essential React concepts and related terms, such as Babel, Webpack, JSX, components, props, state, and lifecycle.
-- Build a very simple React app that demonstrates the above concepts.
-
-## Author
-
-- [Tania Rascia](https://www.taniarascia.com)
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
